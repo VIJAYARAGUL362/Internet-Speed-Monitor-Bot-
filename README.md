@@ -153,9 +153,9 @@ This bot is for educational purposes. Please:
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://mastodon.social/@yourhandle)
+Your Name - [VIJAYARAGUL](https://www.linkedin.com/in/vijayaragul/)
 
-Project Link: [https://github.com/yourusername/internet-speed-monitor-bot](https://github.com/yourusername/internet-speed-monitor-bot)
+Project Link: [https://github.com/VIJAYARAGUL362/internet-speed-monitor-bot](https://github.com/VIJAYARAGUL362/Internet-Speed-Monitor-Bot-)
 
 ## 🙏 Acknowledgments
 
